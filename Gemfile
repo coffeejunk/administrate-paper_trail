@@ -62,3 +62,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "paper_trail", "~> 10.2"
+
+gem "administrate", "~> 0.11.0"
